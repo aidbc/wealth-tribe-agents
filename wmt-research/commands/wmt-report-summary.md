@@ -1,3 +1,7 @@
+---
+name: wmt-report-summary
+description: Generate structured summary of wealth management research report
+---
 
 # Invocation
 
