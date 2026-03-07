@@ -3,7 +3,7 @@
 
 /wmt-report-summary [upload a PDF or other document]
 
-/wmt-report-summmary [paste text from report or article]
+/wmt-report-summary [paste text from report or article]
 
 /wmt-report-summary [paste link to the report or article]
 
