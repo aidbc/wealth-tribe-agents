@@ -1,0 +1,14 @@
+{
+  "name": "wmt-research",
+  "version": "1.0.1",
+  "description": "Market research skills",
+  "author": {
+    "name": "David Brezina",
+    "email": "brezina.david@gmail.com",
+  },
+  "keywords": [
+    "wealtg-management",
+    "market-research",
+  ],
+  "license": "MIT"
+}
