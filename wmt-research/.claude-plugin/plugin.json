@@ -4,10 +4,10 @@
   "description": "Wealth management market research assistant",
   "author": {
     "name": "David Brezina",
-    "email": "brezina.david@gmai..com"
+    "email": "brezina.david@gmail.com"
   },
   "keywords": [
-    "wealth-management",
+    "wealth-management"
   ],
   "license": "MIT"
 }
