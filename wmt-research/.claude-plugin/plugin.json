@@ -4,5 +4,7 @@
   "version": "1.0.1",
   "description": "Wealth management market research assistant",
   "author": "David Brezina",
-  "instructions": "./wmt-report-summary.md"
+  "components": {
+    "commands": ["wmt-report-summary"]
+  }
 }
