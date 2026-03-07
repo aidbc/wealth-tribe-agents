@@ -1,5 +1,6 @@
 
 Invocation
+
 /wmt-summarize-report [upload a PDF or other document]
 /wmt-summarize-report [paste text from report or article]
 /wmt-summarize-report [paste link to the report or article]
