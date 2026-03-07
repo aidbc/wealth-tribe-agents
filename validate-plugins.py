@@ -14,7 +14,6 @@ Based on:
 - agentskills.io specification
 - Claude Code plugins reference (https://code.claude.com/docs/en/plugins-reference)
 
-Author: Paweł Huryn — The Product Compass Newsletter (https://www.productcompass.pm)
 """
 
 import json
@@ -159,7 +158,7 @@ def validate_manifest(plugin_dir: str) -> ValidationResult:
             if field not in author:
                 result.note(f"Missing author.{field}")
     elif author is not None:
-        result.warn("Author should be an object with name, email, url fields")
+        result.warn("Author should be an object with name, email fields")
 
     # Keywords validation
     keywords = data.get("keywords", [])
