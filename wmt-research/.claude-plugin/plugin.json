@@ -1,10 +1,15 @@
 {
-  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "$schema": "https://anthropic.com/schemas/claude-code-plugin.json",
   "name": "wmt-research",
   "version": "1.0.1",
   "description": "Wealth management market research assistant",
   "author": "David Brezina",
   "components": {
-    "commands": ["wmt-report-summary"]
+    "commands": {
+      "wmt-report-summary": {
+        "description": "Generate structured summary of wealth management research report",
+        "source": "./commands/wmt-report-summary.md"
+      }
+    }
   }
 }
