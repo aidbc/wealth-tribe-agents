@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "wmt-research",
-      "description": "Wealth Management Market Research",
+      "description": "Wealth management market research assistant",
       "source": "./wmt-research",
       "category": "wealth-management"
     }
