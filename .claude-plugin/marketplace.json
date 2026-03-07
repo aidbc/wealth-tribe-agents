@@ -11,8 +11,7 @@
     {
       "name": "wmt-research",
       "description": "Wealth management market research assistant",
-      "source": "./wmt-research",
-      "category": "productivity"
+      "source": "./wmt-research"
     }
   ]
 }
