@@ -25,6 +25,8 @@ Write clearly and concisely.
 
 Do not repeat the report. Extract the most valuable insights.
 
+Make sure you have correct data from the report. If possible add page in source (e.g. p.10-p.12)
+
 Structure the output exactly as follows.
 
 ## Executive Summary (TL;DR)
