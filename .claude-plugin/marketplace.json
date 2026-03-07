@@ -5,12 +5,14 @@
   "description": "Structured AI workflows for effective work within wealth management tribe.",
   "owner": {
     "name": "David Brezina",
-    "email": "brezina.david@gmail.com",
+    "email": "brezina.david@gmail.com"
   },
   "plugins": [
     {
       "name": "wmt-research",
-      "description": "Wealth Management Market Resesarch",
+      "description": "Wealth Management Market Research",
       "source": "./wmt-research",
       "category": "wealth-management"
     }
+  ]
+}
