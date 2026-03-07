@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "wealth-management-tribe-agents",
+  "name": "wealth-tribe-agents",
   "version": "1.0.1",
   "description": "Structured AI workflows for effective work within wealth management tribe.",
   "owner": {
