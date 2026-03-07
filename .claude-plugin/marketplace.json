@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "wmt-market-research",
+      "name": "wmt-report-summary",
       "description": "Wealth Management Market Resesarch",
       "source": "./wmt-research",
       "category": "wealth-management"
