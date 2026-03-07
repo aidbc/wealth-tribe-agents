@@ -21,9 +21,13 @@ Your task is to analyze the attached research report and extract the most import
 
 Focus on strategic insights and practical implications, not rewriting the report.
 
+Write clearly and concisely.
+
+Do not repeat the report. Extract the most valuable insights.
+
 Structure the output exactly as follows.
 
-Executive Summary (TL;DR)
+## Executive Summary (TL;DR)
 
 Provide 5–7 bullet points summarizing the most important insights from the report.
 
@@ -35,7 +39,7 @@ important numbers
 
 structural shifts
 
-Key Industry Trends
+## Key Industry Trends
 
 Identify the most important trends shaping wealth management.
 
@@ -44,36 +48,32 @@ For each trend provide:
 • Short explanation
 • Why it matters for wealth platforms
 
-Important Market Data
+## Important Market Data
 
 Extract key numbers mentioned in the report.
 
 Examples:
 
-market size
-
-AUM growth
-
-adoption rates
-
-investor behavior statistics
-
-technology adoption
+- market size
+- AUM growth
+- adoption rates
+- investor behavior statistics
+- technology adoption
 
 Present them as bullet points.
 
-Implications for Wealth Management Firms
+## Implications for Wealth Management Firms
 
 Explain what the report means for:
 
-• retail brokers
-• private banks
-• wealth managers
-• investment platforms
+- retail brokers
+- private banks
+- wealth managers
+- investment platforms
 
 Focus on strategic decisions they may need to make.
 
-Product Opportunities
+## Product Opportunities
 
 Identify product or platform features that could emerge from the report.
 
@@ -89,7 +89,7 @@ Examples:
 
 Explain briefly why each opportunity exists.
 
-Technology Opportunities
+## Technology Opportunities
 
 Identify technology capabilities needed to implement these trends.
 
@@ -102,7 +102,7 @@ Examples:
 • tokenization infrastructure
 • integrations with brokers/custodians
 
-Sales Signals for Vacuumlabs
+## Sales Signals for Vacuumlabs
 
 Identify insights that the sales team can use in conversations with potential clients.
 
@@ -114,23 +114,18 @@ For each insight explain:
 
 Focus on realistic client needs.
 
-Potential Client Pain Points
+## Potential Client Pain Points
 
 Identify operational or strategic problems that banks or wealth platforms may struggle with.
 
 Examples:
+- legacy systems
+- fragmented data
+- slow product innovation
+- regulatory complexity
+- poor client experience
 
-legacy systems
-
-fragmented data
-
-slow product innovation
-
-regulatory complexity
-
-poor client experience
-
-How Vacuumlabs Could Help
+## How Vacuumlabs Could Help
 
 Based on the report, explain where a technology partner like Vacuumlabs could help financial institutions.
 
@@ -142,7 +137,7 @@ Focus on areas such as:
 • building scalable fintech infrastructure
 • accelerating digital transformation
 
-5 Presales Talking Points
+## 5 Presales Talking Points
 
 Create 5 concise talking points that can be used in:
 
@@ -153,6 +148,4 @@ Create 5 concise talking points that can be used in:
 
 These should highlight why wealth firms need to modernize their technology stack.
 
-Write clearly and concisely.
 
-Do not repeat the report. Extract the most valuable insights.
