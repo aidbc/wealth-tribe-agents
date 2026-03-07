@@ -3,3 +3,16 @@
   "version": "1.0.1",
   "description": "Wealth management market research assistant",
 }
+{
+  "name": "wmt-research",
+  "version": "1.0.1",
+  "description": "Wealth management market research assistant",
+  "author": {
+    "name": "David Brezina",
+    "email": "brezina.david@gmai..com",
+  },
+  "keywords": [
+    "wealth-management",
+  ],
+  "license": "MIT"
+}
