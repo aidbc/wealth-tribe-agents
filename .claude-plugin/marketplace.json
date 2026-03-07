@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wealth-management-tribe-agents",
+  "version": "1.0.1",
+  "description": "Structured AI workflows for effective work within wealth management tribe.",
+  "owner": {
+    "name": "David Brezina",
+    "email": "brezina.david@gmail.com",
+  },
+  "plugins": [
+    {
+      "name": "wmt-market-research",
+      "description": "Wealth Management Market Resesarch",
+      "source": "./wmt-research",
+      "category": "wealth-management"
+    },
