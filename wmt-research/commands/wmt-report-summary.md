@@ -1,11 +1,11 @@
 
 # Invocation
 
-/wmt-summarize-report [upload a PDF or other document]
+/wmt-report-summary [upload a PDF or other document]
 
-/wmt-summarize-report [paste text from report or article]
+/wmt-report-summmary [paste text from report or article]
 
-/wmt-summarize-report [paste link to the report or article]
+/wmt-report-summary [paste link to the report or article]
 
 
 # Prompt
