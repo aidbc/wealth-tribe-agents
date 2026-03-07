@@ -1,14 +1,8 @@
 {
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "wmt-research",
   "version": "1.0.1",
-  "description": "Market research skills",
-  "author": {
-    "name": "David Brezina",
-    "email": "brezina.david@gmail.com",
-  },
-  "keywords": [
-    "wealth-management",
-    "market-research",
-  ],
-  "license": "MIT"
+  "description": "Wealth management market research assistant",
+  "author": "David Brezina",
+  "instructions": "./wmt-report-summary.md"
 }
