@@ -4,7 +4,8 @@ argument-hint: "[user] <feature description or PRD>"
 ---
 # /write-user-story -- Backlog Item Generator
 
-Break a feature into well-structured user story.
+Write a structured user story from notes, context, or attached design screens
+argument-hint: "<feature name or short description>
 
 ## Invocation
 ...
