@@ -1,1 +1,13 @@
-
+{
+  "name": "pm-skills",
+  "version": "1.0.1",
+  "description": "Product Management Assistant",
+  "author": {
+    "name": "David Brezina",
+    "email": "brezina.david@gmail.com"
+  },
+  "keywords": [
+    "product-management"
+  ],
+  "license": "MIT"
+}
