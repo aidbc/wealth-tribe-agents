@@ -22,7 +22,7 @@ Turn rough notes, ideas, or design screens into a well-structured user story rea
 - **Notes** — raw bullet points, Slack messages, meeting summaries, anything goes
 - **Design screens** — attach images of mockups, Figma exports, or wireframes
 - **Both** — notes and screens together give the richest output
-- **Just a feature name** — Claude will use its knowledge to fill in context
+- **Just a feature name** — Claude will use project knowledge from previous threads and its knowledge to fill in context
 
 ---
 
@@ -61,14 +61,12 @@ Produce a complete user story using the structure below.
 ## User Story: [Short Title]
 
 ### Story
-**As a** [user type],
-**I want** [capability or action],
-**so that** [benefit or outcome].
+**As a** [user type], **I want** [capability or action], **so that** [benefit or outcome].
 
 ---
 
 ### Context / Background
-[2–4 sentences explaining why this story exists. Include the user problem, business motivation, or product goal. Reference the design screen or notes if provided.]
+[1–3 sentences explaining why this story exists. Include the user problem, business motivation, or product goal. Reference the design screen or notes if provided.]
 
 ---
 
